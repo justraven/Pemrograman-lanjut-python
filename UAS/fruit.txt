@@ -1,0 +1,4 @@
+apple, 2
+durian, 3
+orange, 7
+coconut, 4
